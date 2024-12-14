@@ -130,7 +130,7 @@ python demo.py --help
 [stars-shield]: https://img.shields.io/github/stars/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge&color=yellow
 [stars-url]: https://github.com/giuliofantuzzi/Pitch2Data/stargazers
 [issues-shield]: https://img.shields.io/github/issues/giuliofantuzzi/Pitch2Data.svg?style=for-the-badge&color=darkgreen
-[issues-url]: https://github.com/giuliofantuzzi/parallel-quicksort-algorithms/issues
+[issues-url]: https://github.com/giuliofantuzzi/Pitch2Data/issues
 [python-shield]: https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&logoColor=%23FECC00&color=%233776AB
 [python-url]: https://www.python.org/
 [pytorch-shield]: https://img.shields.io/badge/PyTorch-PyTorch?style=for-the-badge&logo=PyTorch&logoColor=white&color=orange
